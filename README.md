@@ -8,3 +8,13 @@ This repository includes the following files:
   - Includes konwn mix design examples
 - [Annotated Code Document](CIVE202_Spring2026_156-06-Project2_ACD.docx)
 - [Final Report](CIVE202_Spring2026_Project2_Group6_Report.docx)
+## How to use this program
+- Open the [project code document](CIVE202_Spring2026_Group6_Project2_PythonCode.ipynb) in Jupyter Notebooks
+- Run each segment of code
+- After running last segment, you will be prompted to enter information about your desired mix.
+  - Enter cementitious material weights
+  - Enter desired air and water contents
+  - Enter aggregate percentages
+  - Enter specific gravities of materials
+- The required amounts of each material (by weight) should print below.
+- Several common mix designs are already calculated below the main code. See these for pre-calculated weights for these designs.
