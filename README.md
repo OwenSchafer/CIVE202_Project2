@@ -1,5 +1,5 @@
 # CIVE202_Project2
-Calculation algorithm for determining components, by weight, for a concrete mix of specified charachteristics. This algorithm is produced for use by the Nebraska Department of Transportation to replace an existing Microsoft Excel-based tool.
+Calculation algorithm for determining components, by weight, for a concrete mix of specified characteristics. This algorithm is produced for use by the Nebraska Department of Transportation to replace an existing Microsoft Excel-based tool.
 ## Repository Structure
 This repository includes the following files:
 - [Lab document](CIVE202_Spring2026_152-06_Project2_Labs.ipynb)
